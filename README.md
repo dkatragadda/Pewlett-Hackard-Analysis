@@ -25,4 +25,4 @@ The purpose of this analysis was to use our skills in creating an employee datab
 
 Two additional tables that would help in overcoming the silver tsunami are:
 1. Create a table which helps in maintaining the count of employees by dept who are due to retire - This will help the company create department specific strategies that will fill the void. 
-2. Create a table which helps in maintaining a distribution of the employees due to retire over the next 3 years in bins of 6 months to ensure a time bound strategy to fill the void and also develop training programs for the workforce eligible for mentorship. This helps in breaking down the task at hand in a phased manner.  
+2. Create a table which helps in maintaining a distribution of the employees due to retire over the next 4 years (employees born between 1952 and 1955) in bins of 6 months to ensure a time bound strategy to fill the void and also develop training programs for the workforce eligible for mentorship. This helps in breaking down the task at hand in a phased manner.  
