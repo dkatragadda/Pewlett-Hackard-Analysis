@@ -5,13 +5,11 @@ The purpose of this analysis was to use our skills in creating an employee datab
 
 ## Results
 
-* Pewlett-Hackard has 300024 employees out of which 
+* Pewlett-Hackard has 300024 employees out of which 90398 employees are due to retire soon
+* 
 
 
 ## Summary
 
 The four major changes in the updated school district analysis after the reading and math scores for the 9th graders at Thomas High School were replaced with NaNs are:
-1. The change in the total number of students at Thomas High School as the count for the total number of students at Thomas High School was updated to 1174. 
-2. The average math score changed to 83.35
-3. The average reading score changed to 83.89
-4. The overall % passing for Thomas High School changed from 90.94 to 90.63.
+1. 
