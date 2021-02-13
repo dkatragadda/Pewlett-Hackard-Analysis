@@ -8,6 +8,8 @@ The purpose of this analysis was to use our skills in creating an employee datab
 * Pewlett-Hackard has 300024 employees out of which 90398 employees are due to retire soon
 * 
 
+[Retiring_Titles]!(https://github.com/dkatragadda/Pewlett-Hackard-Analysis/blob/main/Retiring_Titles.png)
+
 
 ## Summary
 
